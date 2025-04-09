@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Décio Luíz</h1>
-<h3 align="center">Systems Analyst and Java Developer from Brazil</h3>
+<h3 align="center">Systems Analyst and .Net/C# Developer from Brazil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=decioluiz&label=Profile%20views&color=0e75b6&style=flat" alt="decioluiz" /> </p>
 
-- 🌱 I’m currently learning **Java, SpringBood, MySQL, MongoDB, Linux, Windows Server, Linux Server, Cybersecurity**
+- 🌱 I’m currently working with **C#, .Net, MySQL, MongoDB, Linux, Windows Server, Linux Server, Cybersecurity**
 
-- 💬 About me **Welcome to my profile. I am a Systems Analysis and Development student, in recent months I have focused my studies on Java, MySQL database, MongoDB, Spring Boot, Linux, Cloud Computing and now I must also dedicate myself to Cybersecurity.**
+- 💬 About me **Welcome to my profile. I am a Systems Analysis and Development, in recent months I have focused my studies on .Net, C#, MySQL database, MongoDB, SQL Server, Linux, Cloud Computing and now I must also dedicate myself to Cybersecurity.**
 
 - 📫 How to reach me **decioluiz@msn.com**
 
